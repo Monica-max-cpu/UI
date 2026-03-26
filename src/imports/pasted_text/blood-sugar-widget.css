@@ -1,0 +1,242 @@
+/* Blood Sugar */
+
+position: absolute;
+width: 213px;
+height: 262px;
+left: 141px;
+top: 146px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 213px;
+height: 262px;
+left: 141px;
+top: 146px;
+
+background: #FFFFFF;
+border: 1px solid #E8E7E7;
+box-shadow: 0px 1px 50px rgba(0, 0, 0, 0.08);
+border-radius: 12px;
+
+
+/* Blood Sugar */
+
+position: absolute;
+width: 93px;
+height: 20px;
+left: 235px;
+top: 185px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* mg / dL */
+
+position: absolute;
+width: 58px;
+height: 20px;
+left: 206px;
+top: 255px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #818181;
+
+
+
+/* 80 */
+
+position: absolute;
+width: 39px;
+height: 40px;
+left: 161px;
+top: 243px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+
+color: #272927;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 173px;
+height: 72.5px;
+left: 161px;
+top: 325px;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 173px;
+height: 72.5px;
+left: 161px;
+top: 325px;
+
+background: linear-gradient(180deg, #F8DEBD 0%, rgba(251, 235, 214, 0) 100%);
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 173px;
+height: 50.23px;
+left: 161px;
+top: 325px;
+
+border: 1px solid #F3A53F;
+
+
+/* Group 31 */
+
+position: absolute;
+width: 58px;
+height: 58px;
+left: 161px;
+top: 166px;
+
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 58px;
+height: 58px;
+left: 161px;
+top: 166px;
+
+background: #F8DEBD;
+border-radius: 12px;
+
+
+/* Group 14 */
+
+position: absolute;
+width: 20.67px;
+height: 35px;
+left: 180px;
+top: 177px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.66%;
+right: 86.23%;
+top: 17.51%;
+bottom: 80.74%;
+
+background: #E79B38;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 86.06%;
+top: 17.29%;
+bottom: 79.3%;
+
+background: #E79B38;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.85%;
+right: 86.96%;
+top: 19.3%;
+bottom: 80.54%;
+
+background: #E79B38;
+transform: rotate(135deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 13.34%;
+right: 86.47%;
+top: 19.3%;
+bottom: 80.54%;
+
+background: #E79B38;
+transform: rotate(135deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 13.09%;
+right: 86.71%;
+top: 19.3%;
+bottom: 80.54%;
+
+background: #E79B38;
+transform: rotate(135deg);
+
+
+/* Frame 13 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 4px 8px;
+gap: 10px;
+
+position: absolute;
+width: 58px;
+height: 23px;
+left: 161px;
+top: 292px;
+
+background: #F8DEBD;
+border-radius: 4px;
+
+
+/* Normal */
+
+width: 42px;
+height: 15px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
